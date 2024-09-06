@@ -82,7 +82,7 @@ flutter:
       fonts:
         - asset: assets/fonts/Lalezar-Regular.ttf
     - family: YekanBakh
-      -fonts:
+      fonts:
         - asset: assets/fonts/YekanBakh-Regular.ttf
   #
   # For details regarding fonts from package dependencies,
